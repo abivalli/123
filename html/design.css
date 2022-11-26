@@ -1,0 +1,23 @@
+body
+{
+	background-color: #999;
+	font-family: arial;
+}
+h1
+{
+	color: blue;
+	background-color: black;
+	padding: 100px 550px;
+}
+h2,p
+{
+	color: green;
+}
+li
+{
+	color: white;
+}
+a
+{
+	color: yellow;
+}
